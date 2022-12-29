@@ -1,5 +1,4 @@
 # INeEdtOkNOw-TS
-why JS is not the best
 
 nothing some (thing) code here
 
